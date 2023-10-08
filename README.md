@@ -1,14 +1,12 @@
 # BSPWM | Polybar themes collection with Theme Selector
 
-## Puedes leer esta pagina en español [AQUI](INICIO.md)
+##  [AQUI](INICIO.md)
 
 ## 🌿 Information
 12 different themes for BSPWM and Polybar. With a theme selector to change on the fly.
 
 ## :book: Wiki
 I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wiki), you should give it a read. If it is your first time with a WM, you may be interested in reading [First steps after installing the dotfiles](https://github.com/gh0stzk/dotfiles/wiki/Firsts-steps-after-installing) or maybe read [frequently asked questions and answers](https://github.com/gh0stzk/dotfiles/wiki/Questions---Answers).
-
-https://user-images.githubusercontent.com/67278339/211363959-9182ecb7-e56e-4598-afed-f352c5d2979e.mp4
 
 ## Info
 <img src="https://user-images.githubusercontent.com/67278339/221605474-21d65156-0cf7-485c-bd1a-40792c37817e.png" alt="Linux Fetch" align="right" width="450">
